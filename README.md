@@ -93,7 +93,8 @@ forecast.plot_components()
  ┣ 📜 requirements.txt
  ┣ 📜 README.md
  ┗ 📂 data
-     ┗ sri_lanka_weather.csv
+     ┗ SriLanka_Weather_Dataset_V1.csv
+     ┗ WMO CODE TABLE.json
       
 ```
 
